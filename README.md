@@ -14,7 +14,7 @@ links to external references, in the following categories:
 You can clone the above repository using:
 
 ```
-$ git clone git@github.com:prismlab/docs.git
+$ git clone git@github.com:fplaunchpad/docs.git
 ```
 
 A `README.md` file under each category folder will contain a list of all
